@@ -24,6 +24,7 @@ In this project, I'd be will be working on a real-world dataset of the google pl
 This project will help one understand how a real-world database is analyzed using SQL, how to get maximum available insights from the dataset, pre-process the data using python for a better upcoming performance, how a structured query language helps us retrieve useful information from the database, and visualize the data with the power bi tool. The Project will consist of 2 modules:
 
 Module 1: Pre-processing, Analyzing data using Python and SQL.
+
 Module 2: Visualizing data using Power BI.
 
 
@@ -147,7 +148,7 @@ Understand the following requirements and query the dataset using MYSQL for disp
 - In terms of reviews on apps, only 61% of apps received a positive review, 23% received a negative review and 17% received a neutral review from users.
 
 
-![playstore.png](attachment:playstore.png)
+![Dashboard](./playstore.png)
 
 
 ## Contributors
