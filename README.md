@@ -30,7 +30,7 @@ Module 2: Visualizing data using Power BI.
 
 ## Dataset
 
-- This **[data set](https://drive.google.com/file/d/19fVBgoQJr5jkupe0O9Ht8VeMqSVaBJae/view?usp=share_link)** contains two csv  files of data scraped from google play store app for the period of 2010 - 2018.  The first dataset - `apps` contains data on play store apps and its attributes, while the other dataset - `reviews` containing data on customer reviews for each playstore app. The play store app data was scraped .  
+- This **[data set](https://drive.google.com/file/d/19fVBgoQJr5jkupe0O9Ht8VeMqSVaBJae/view?usp=share_link)** contains two csv  files of data scraped from google play store app for the period of 2010 - 2018.  The first dataset - `apps` contains data on play store apps and its attributes, while the other dataset - `reviews` containing data on customer reviews for each playstore app.  
 
 - Key variables in the dataset includes :
 
