@@ -50,7 +50,7 @@ Module 2: Visualizing data using Power BI.
 | Genres | such as 'Auto & Vehicles', 'Beauty', 'Books & Reference', 'Business','Comics', 'Communication', 'Dating' etc. |
 | Last Updated | the date the app was last updated |
 | Current Ver | the current version of the app |
-| Andriod Ver | the minimum andriod version app can run on |
+| Android Ver | the minimum android version app can run on |
 
 
 **reviews dataset**
