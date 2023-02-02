@@ -103,7 +103,7 @@ Understand the following requirements and query the dataset using MYSQL for disp
 #### Solution URL: 
 
 - [Project Report - Module 1_Python](./PLAYSTORE_APPS_ANALYSIS.ipynb)
-- [MySQL Queries - Module 1](./module 1_subtask4.txt)
+- [MySQL Queries - Module 1](./module1_subtask4.txt)
 - [Power BI Report - Module 2](https://www.novypro.com/project/henry-okam-4)
 - [Module 1 Python/SQL Walkthrough Youtube Video](https://youtu.be/kgyO6Oah3Wk)
 - [Module 2 Power BI Walkthrough Youtube Video](https://youtu.be/9cIqEtfOem4)
@@ -169,7 +169,7 @@ Understand the following requirements and query the dataset using MYSQL for disp
 
 ## Acknowledgements
 
-Special thanks to [Aditya Sharma](https://www.linkedin.com/in/aditya-hicounselor) and to the team at [HiCounselor](https://www.linkedin.com/company/hicounselor/) for organizing the live data analysis project and for providing the dataset for this project. Also to my team members who contributed immensely to the success of this project.It was a great learning experienece especially with regards to working in a team of analysts across different timezones.
+Special thanks to [Aditya Sharma](https://www.linkedin.com/in/aditya-hicounselor) and to the team at [HiCounselor](https://www.linkedin.com/company/hicounselor/) for organizing the live data analysis project and for providing the dataset for this project. Also to my team members who contributed immensely to the success of this project. It was a great learning experienece especially with regards to working in a team of analysts across different timezones.
 
 
 
