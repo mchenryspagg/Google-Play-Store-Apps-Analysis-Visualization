@@ -161,7 +161,7 @@ Understand the following requirements and query the dataset using MYSQL for disp
 
 3. PRINCE BOADI - [Email](mailto:oseiakwasiprince@gmail.com) | [Linkedin](https://www.linkedin.com/in/princeboadi)
 
-4. Chinazor Idenyi - [Email](mailto:idenyichinazor@gmail.com) | [Linkedin](https://www.linkedin.com/in/chinazor-idenyi)
+4. Chinazor Ndubuisi - [Email](mailto:idenyichinazor@gmail.com) | [Linkedin](https://www.linkedin.com/in/chinazor-ndubuisi/)
  
 5. Chidubem Anyali - [Email](mailto:dubbieanne@gmail.com) | [Linkedin](https://www.linkedin.com/in/chidubem-anyali-900834156)
 
